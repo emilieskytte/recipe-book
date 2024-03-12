@@ -2,6 +2,9 @@
 
 ## Ingredients
 
+- Cashew
+- Almonds
+- etc
 - Ingredient 1
 - Ingredient 2
 
